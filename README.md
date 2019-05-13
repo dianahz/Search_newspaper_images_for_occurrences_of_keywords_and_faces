@@ -7,7 +7,7 @@ The files in the ZIP file are newspaper images. The python code allows one to se
 
 Data:
 
-Each page of the newspapers is saved as a single PNG image in a file called images.zip. These newspapers are in english, and contain a variety of stories, advertisements and images. Note: This file is fairly large (~200 MB) and may take some time to work with, I would encourage you to use small_img.zip for testing.
+Each page of the newspapers is saved as a single PNG image in a file called images.zip (https://knosniazsjmouxbwmyvnyf.coursera-apps.org/notebooks/readonly/images.zip). These newspapers are in english, and contain a variety of stories, advertisements and images. Note: This file is fairly large (~200 MB) and may take some time to work with, I would encourage you to use small_img.zip (https://knosniazsjmouxbwmyvnyf.coursera-apps.org/notebooks/readonly/small_img.zip) for testing.
 
 Method:
 
